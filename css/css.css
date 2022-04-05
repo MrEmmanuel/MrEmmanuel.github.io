@@ -105,9 +105,29 @@ h1, h2 {
   }
   
   .box {
-    background-color: #444;
+    background-color: grey;
     color: #fff;
-    border-radius: 5px;
-    padding: 30px;
-    font-size: 150%;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 100%;
   }
+
+.skills {
+  max-width: 68.75rem;
+  margin: auto;
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+.skill-header {
+  margin-bottom: 1rem;
+}
+
+.skills-wrapper img {
+  padding: 1.25rem;
+}
+
+.icon {
+  width: 5rem;
+  height: 5rem;
+}
