@@ -465,9 +465,8 @@ footer {
   .item-b {
     grid-area: main;
     background-color: black;
-   
     height: 350px;
-    width: 1000px;
+    width: auto;
     background-image: linear-gradient(to right,#4756df,#89fffd);
 
     padding: 2px;
