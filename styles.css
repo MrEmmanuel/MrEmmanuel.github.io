@@ -147,7 +147,6 @@ nav ul li {
   line-height: var(--line-height);
   padding: 0.4rem;
 }
-/* More about ends */
 
 /* Skills section */
 .skills {
@@ -497,11 +496,6 @@ footer {
 
 
   }
-
-
-
-
-
 
   .wrapper {
     display: grid;
